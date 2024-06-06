@@ -1,6 +1,8 @@
 - `toss/slash`
 
-  - [useOutsideClickEffect 이슈라이징](https://github.com/toss/slash/pull/355)
+  - [useStorageState 버그 픽스](https://github.com/toss/slash/pull/494)
+    - 브라우저 Storage와 React State를 동기화하는 커스텀 훅에서 발생한 버그 픽스
+  - [useOutsideClickEffect 이슈라이징](https://github.com/toss/slash/issues/354)
     - 모바일환경에서 'click' 이벤트와 'touch' 이벤트에서 두번 콜백이 발생하는 버그
   - [useOutsideClickEffect 문서 수정](https://github.com/toss/slash/pull/304)
     - 실제 동작과 문서가 다른 부분을 수정
