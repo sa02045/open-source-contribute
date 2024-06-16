@@ -1,3 +1,10 @@
+## 오픈소스
+
+1. nextjs-app-router-visualizer
+   - Next.js 앱 라우터로 구성된 웹 페이지의 퍼널 흐름을 시각화하는 도구입니다.
+   - 실험적인 프로젝트로, babel/parser를 활용하여 React 컴포넌트를 **AST**로 파싱하고, 이를 기반으로 그래프를 생성합니다.
+   - [프로젝트 주소](https://github.com/sa02045/nextjs-app-router-visualizer?tab=readme-ov-file#nextjs-app-router-visualizer)
+
 - `toss/slash`
 
   - [useStorageState 버그 픽스](https://github.com/toss/slash/pull/494)
