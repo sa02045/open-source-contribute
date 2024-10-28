@@ -1,7 +1,7 @@
 ### 오픈소스 기여
 
 - `toss/es-toolkit`
-  - [unzip 함수 구현](https://github.com/toss/es-toolkit/pull/100)
+  - [unzip 함수 구현](https://github.com/toss/es-toolkit/pull/130)
     - unzip 함수 명령형 코드로 퍼포먼스를 중점으로 구현
 - `toss/slash`
 
